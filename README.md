@@ -1,5 +1,5 @@
 # Restaurante_backend
-Criação de API com NodeJS, usando Banco de Dados PostgreSQL.Testando as rotas no Insomnia.
+Criação de API com NodeJS, usando Banco de Dados PostgreSQL. Testando as rotas no Insomnia.
 
 
 # Iniciar
